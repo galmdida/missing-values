@@ -1,0 +1,9 @@
+Number,Order Date,Region_t_p,Name_t_p,Item_t_p,Units,Unit Cost,Total
+1,1 6 19,,Jones,Pencil,95,1.99,189.05
+2,1 23 19,,Kivell,Binder,50,19.99,999.5
+3,2 9 19,Central,,,,,179.64
+4,2 26 19,Central,Gill,Pen,27,19.99,539.73
+5,,,,,,2.99,167.44
+7,4 18 19,Central,Andrews,Pencil,75,1.99,149.25
+9,,,,,,1.99,63.68
+10,6 8 19,East,Jones,Binder,60,8.99,
